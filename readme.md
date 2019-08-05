@@ -1,7 +1,7 @@
 # pwnfb50
-> Transfer ownership of any FB50 smart lock to yourself
+> Transfer ownership of any FB50 smart lock to yourself (CVE-2019-13143)
 
-[PoC](https://twitter.com/icyphox/status/1158396372778807296)
+[PoC Video](https://twitter.com/icyphox/status/1158396372778807296)
 
 ## Usage
 
